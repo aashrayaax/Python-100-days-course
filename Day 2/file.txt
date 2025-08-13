@@ -1,0 +1,20 @@
+This lecture discusses about various ammazing Python programs as follows:
+Jarvis Virtual Assistant:
+You can ask questions like
+Wikipedia queries:
+
+"wikipedia artificial intelligence"
+"wikipedia Python programming"
+Any topic followed by the word "wikipedia"
+Open websites:
+
+"open youtube"
+"open google"
+"open stackoverflow"
+Time check:
+
+"what is the time"
+"tell me the time"
+Music (Note: You'll need to update the music directory path in the code to match your system):
+
+"play music"
