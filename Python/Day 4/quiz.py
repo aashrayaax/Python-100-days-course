@@ -1,0 +1,1 @@
+print("Jonny Jonny Yes Papa!\nJohnny eating sugar? No Papa!\nTelling lies? No Papa!\nOpen your mouth! Ha ha ha!")
