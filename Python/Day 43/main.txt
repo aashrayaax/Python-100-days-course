@@ -1,0 +1,1 @@
+This lecture in this vid is about virtual environments.I have practiced in cmd
